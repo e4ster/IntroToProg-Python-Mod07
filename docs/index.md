@@ -43,7 +43,7 @@ This was another case where I used built-in python functions within my own custo
 I will first display the script running twice in PyCharm:   
 ![Figure 5.1](https://github.com/e4ster/IntroToProg-Python-Mod07/blob/main/docs/figure%205.1.JPG "Figure 5.1")   
 Below you can see that the ‘AppData.pickle’ file was created, and data was added to it.   
-![Figure 5.2](https://github.com/e4ster/IntroToProg-Python-Mod07/blob/main/docs/figure%205.2.JPG "Figure 5.2") 
+![Figure 5.2](https://github.com/e4ster/IntroToProg-Python-Mod07/blob/main/docs/figure%205.2.JPG "Figure 5.2")   
 Next you will see the program running from the command prompt.   
 ![Figure 5.3](https://github.com/e4ster/IntroToProg-Python-Mod07/blob/main/docs/figure%205.3.JPG "Figure 5.3")   
 As you can see, when I entered the third data set from the command prompt, the data was saved to the file, and then read from the file and printed to the user.   
