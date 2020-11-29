@@ -49,4 +49,6 @@ Next you will see the program running from the command prompt.
 As you can see, when I entered the third data set from the command prompt, the data was saved to the file, and then read from the file and printed to the user.   
 
 ## Summary
-Pickling data is a great way to store data as smaller files.  As programs and databases get very large, this might even be required in some cases.  I’ve learned the basics, but there is no doubt I need to continue researching everything that the ‘pickle’ module has to offer.  In addition, the use of error handling is a necessary part of well performing scripts.  Whenever a script deals with input/output, it runs the risk of the user creating an error.  Exceptions are a concept that I see myself working on for a long time because there seems to be an aspect of creativity involved.  Looking forward to building on these skills!
+Pickling data is a great way to store data as smaller files.  As programs and databases get very large, this might even be required in some cases.  I’ve learned the basics, but there is no doubt I need to continue researching everything that the ‘pickle’ module has to offer.  In addition, the use of error handling is a necessary part of well performing scripts.  Whenever a script deals with input/output, it runs the risk of the user creating an error.  Exceptions are a concept that I see myself working on for a long time because there seems to be an aspect of creativity involved.  Looking forward to building on these skills!   
+
+https://e4ster.github.io/IntroToProg-Python-Mod07/
