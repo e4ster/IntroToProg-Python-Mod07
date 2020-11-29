@@ -10,10 +10,11 @@ This week’s assignment included an open-ended exercise where I created a scrip
 
 ## Step 1: Read Data, Store in List
 The main body of this program was only four lines, however it called functions that were previously defined in the script. This first executable line is below:   
-![Figure 1.1](https://github.com/e4ster/IntroToProg-Python-Mod07/blob/main/docs/figure%201.1.JPG "Figure 1.1")
+![Figure 1.1](https://github.com/e4ster/IntroToProg-Python-Mod07/blob/main/docs/figure%201.1.1.JPG "Figure 1.1")   
 In this line, I called a function to read data from the binary file, using our file name as an argument, and then assigning the list it returned to ‘lstCustomer’.  Let’s take a look at the ‘read_data_from_file’ function.
 
 ## Step 2: Add User Input to List
+
 
 ## Step 3: Save the List to Binary File
 
